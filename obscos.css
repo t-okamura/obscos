@@ -100,8 +100,6 @@ hr.style-one {
         opacity: 1;
     }
 }
-
-
 .resume li{
   width: 10%;
   list-style-type: none;
@@ -113,3 +111,6 @@ hr.style-one {
 .resume_kie {
   display: none;
 }
+
+
+
