@@ -53,6 +53,11 @@ hr.style-one {
   margin: 0 auto;  
   height: 450px;
 }
+#news{
+  width: 80%;
+  margin: 0 auto;  
+  height: 280px;
+}
 #left{
   float: left;
   width:600px;
